@@ -1,0 +1,31 @@
+{
+  "name": "nation",
+  "version": "0.0.1",
+  "description": "acerca de? su bot",
+  "main": "node app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "enmap": "^5.3.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "log-symbols": "^4.0.0",
+    "randomcolor": "^0.5.4",
+    "sqlite": "^4.0.10",
+    "sqlite3": "^4.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/la-puta-de-tu-madre"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "exress"
+  ]
+}
